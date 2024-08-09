@@ -54,24 +54,23 @@ The avatars and worlds are shown further below.
 
 ## Worlds
 
-**Egypt**
+<div id="compact-cards" class="grid cards" markdown>
 
-![](./assets/images/Egypt2.png)
+- **Egypt**
+  
+  ![](./assets/images/Egypt2.png)
+- **Asian village**
+  
+  ![](./assets/images/AsianVillage2.png)
+- **Tropical island**
+  
+  ![](./assets/images/Tropical2.png)
+- **Venice**
+  
+  ![](./assets/images/Venice2.png)
+- **Forest**
+  
+  ![](./assets/images/ForestLevel2.png)
+</div>
 
-**Asian village**
-
-![](./assets/images/AsianVillage2.png)
-
-**Tropical island**
-
-![](./assets/images/Tropical2.png)
-
-**Venice**
-
-![](./assets/images/Venice2.png)
-
-**Forest**
-
-![](./assets/images/ForestLevel2.png)
-
-You can find more examples in the [images](https://github.com/Svito-zar/wasp-2023-summer-school/blob/main/Images/) folder.
+More images can be found [here](https://github.com/TeoNikolov/wasp-ss-assignment/blob/main/docs/assets/images/).
