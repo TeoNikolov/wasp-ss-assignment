@@ -20,6 +20,14 @@ The `.fbx` and `.wav` files should be named in ascending order, starting from 0,
     ```
     - team_name.zip
         - script.txt
+            - Team: My Team Name
+            - Scene: Forest
+            - Script:
+            - 1C: Hello there!
+            - 2C: My name is Johnny.
+            - 3B: Hi Johnny!
+            - 4C: And who are you?
+            - 5D: I am the Skatteverket :)
         - bvh/
             - 1C.bvh
             - 2C.bvh
@@ -77,7 +85,7 @@ We offer 5 worlds to choose from:
 
 ![](./assets/images/Venice2.png)
 
-**ForestLevel**
+**Forest**
 
 ![](./assets/images/ForestLevel2.png)
 
