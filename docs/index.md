@@ -39,9 +39,7 @@ You work with your team to create text, audio, and animation files for your stor
 
 **Stage 2. Submission**
 
-You zip all created files to a `.zip` archive which you submit to us.
-
-[More info.](./submission.md)
+You package all created files to a `.zip` archive which you submit to us. [(more info)](./submission.md)
 
 **Stage 3. Presentation**
 
