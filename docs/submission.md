@@ -1,34 +1,44 @@
 # Submission
-To submit, send an email to `tnikolov@hotmail.com` OR `tsakovm@gmail.com`.
+To submit, send an email to:
 
-Your submission should be **2-5 minutes** long and be composed of the following files:
+- `tnikolov@hotmail.com`
+- `tsakovm@gmail.com`
 
-- a `.zip` of `.fbx` files
-- a `.zip` of `.wav` files
-- a `.txt` file
+You should submit one `.zip` file containing:
 
-The `.fbx` and `.wav` files should be named in ascending order, starting from 0, in the order that they should be played back. Append `A`, `B`, `C`, `D` or `E` to each file to indicate which avatar you wish to use for the animation. The `.fbx` files are extracted using the gesture generation system.
+- the `.txt` story script file
+- all `.wav` files
+- all `.bvh` files
+- all `.fbx` files
+
+The `.fbx` and `.wav` files should be named in ascending order, starting from 0, in the order that they should be played back. Append `A`, `B`, `C`, `D` or `E` to each file to indicate which avatar you wish to use for the animation. The `.fbx` files are extracted using the gesture generation system. The cumulatibe duration of your `.wav` files should be *4 minutes* long or less.
 
 ![](./assets/images/avatars.png)
 
-*Example:*
+??? Example
 
-```
-- fbx.zip
-    - 0A.fbx
-    - 1C.fbx
-    - 2C.fbx
-    - 3B.fbx
-    - 4C.fbx
-    - 5D.fbx
-- wav.zip
-    - 0A.wav
-    - 1C.wav
-    - 2C.wav
-    - 3B.wav
-    - 4C.wav
-    - 5D.wav
-```
+    ```
+    - team_name.zip
+        - script.txt
+        - bvh/
+            - 1C.bvh
+            - 2C.bvh
+            - 3B.bvh
+            - 4C.bvh
+            - 5D.bvh
+        - fbx/
+            - 1C.fbx
+            - 2C.fbx
+            - 3B.fbx
+            - 4C.fbx
+            - 5D.fbx
+        - wav/
+            - 1C.wav
+            - 2C.wav
+            - 3B.wav
+            - 4C.wav
+            - 5D.wav
+    ```
 
 The `.txt` file should contain the following information:
 
