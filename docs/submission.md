@@ -11,9 +11,9 @@ You should submit one `.zip` file containing:
 - all `.bvh` files
 - all `.fbx` files
 
-The `.fbx` and `.wav` files should be named in ascending order, starting from 0, in the order that they should be played back. Append `A`, `B`, `C`, `D` or `E` to each file to indicate which avatar you wish to use for the animation. The `.fbx` files are extracted using the gesture generation system. The cumulatibe duration of your `.wav` files should be *4 minutes* long or less.
+The `.fbx` and `.wav` files should be named in ascending order, starting from 1, in the order that they should be played back. Append `A`, `B`, `C`, `D` or `E` to each file to indicate which avatar you wish to use for the animation. The `.fbx` files are extracted using the gesture generation system. The cumulative duration of your `.wav` files should be *4 minutes* long or less.
 
-![](./assets/images/avatars.png)
+The avatars and worlds are shown further below.
 
 ??? Example
 
@@ -48,26 +48,11 @@ The `.fbx` and `.wav` files should be named in ascending order, starting from 0,
             - 5D.wav
     ```
 
-The `.txt` file should contain the following information:
+## Avatars
 
-- Team name or ID
-- World
+![](./assets/images/avatars.png)
 
-*Example:*
-
-- Jackal.txt
-    - Team "Jackal"
-    - World "Tropical island"
-
-We have the following teams this year:
-
-1. *Algorithmic Amigos*
-2. *VR WASP Wizards*
-3. *Artificial Four*
-4. *Quebec*
-5. *Lucasfilm Ltd TM*
-
-We offer 5 worlds to choose from:
+## Worlds
 
 **Egypt**
 
