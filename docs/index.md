@@ -33,13 +33,15 @@ The assignment is split in three stages:
 
 You work with your team to create text, audio, and animation files for your story.
 
-- Text (.txt): You use LLMs (like ChatGPT) to create a script for your story.
-- Audio (.wav): You use a text-to-audio model to generate speech audio. This year, you will most likely use the model you trained for the pre-summer school assignment (on Canvas). You can use different voices for this, not just your own. You can also stitch the audio and add silence to control the pacing.
-- Animation (.bvh, .fbx): You use the WASP gesgen app to generate gesture animations from speech audio.
+- Text (`.txt`): You use LLMs (like ChatGPT) to create a script for your story.
+- Audio (`.wav`): You use a text-to-audio model to generate speech audio. This year, you will most likely use the model you trained for the pre-summer school assignment (on Canvas). You can use different voices for this, not just your own. You can also stitch the audio and add silence to control the pacing.
+- Animation (`.bvh`, `.fbx`): You use the WASP gesgen app to generate gesture animations from speech audio.
 
 **Stage 2. Submission**
 
-You zip all '.txt', '.wav', '.bvh', and '.fbx' files to a '.zip' file which you submit to us. More info below.
+You zip all created files to a `.zip` archive which you submit to us.
+
+[More info.](./submission.md)
 
 **Stage 3. Presentation**
 
