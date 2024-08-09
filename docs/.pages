@@ -1,3 +1,4 @@
 nav:
-    - ...
-
+    - "Assignment": index.md
+    - "Agenda": agenda.md
+    - "Submission": submission.md
