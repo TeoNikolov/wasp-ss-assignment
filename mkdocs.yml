@@ -1,0 +1,44 @@
+site_name: WASP Summer School Assignment
+
+# Repository
+repo_name: ""
+repo_url: ""
+edit_uri: ""
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+  features:
+    - navigation.footer
+    - navigation.tabs
+extra_css:
+  - stylesheets/extra.css
+plugins:
+  - search
+  - awesome-pages
+  - mkdocs-video
+  - social
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - toc:
+        permalink: "🔗&#xFE0E;"
+        toc_depth: 3
