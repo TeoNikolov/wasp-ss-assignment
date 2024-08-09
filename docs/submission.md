@@ -13,7 +13,7 @@ You should submit one `.zip` file containing:
 
 The `.fbx` and `.wav` files should be named in ascending order, starting from 1, in the order that they should be played back. Append `A`, `B`, `C`, `D` or `E` to each file to indicate which avatar you wish to use for the animation. The `.fbx` files are extracted using the gesture generation system. The cumulative duration of your `.wav` files should be *4 minutes* long or less.
 
-The avatars and worlds are shown further below.
+The avatars and scenes are shown further below.
 
 !!! Example
 
@@ -52,22 +52,26 @@ The avatars and worlds are shown further below.
 
 ![](./assets/images/avatars.png)
 
-## Worlds
+## Scenes
 
 <div id="compact-cards" class="grid cards" markdown>
 
 - **Egypt**
   
   ![](./assets/images/Egypt2.png)
+
 - **Asian village**
   
   ![](./assets/images/AsianVillage2.png)
+
 - **Tropical island**
   
   ![](./assets/images/Tropical2.png)
+
 - **Venice**
   
   ![](./assets/images/Venice2.png)
+
 - **Forest**
   
   ![](./assets/images/ForestLevel2.png)
