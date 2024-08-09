@@ -1,0 +1,5 @@
+nav:
+    - "Text Generation": tutorial-text.md
+    - "Speech Generation": tutorial-speech.md
+    - "Gesture Generation": tutorial-gestures.md
+    - ...
