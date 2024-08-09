@@ -55,24 +55,20 @@ All files (except the `.txt`) should be named in ascending order, starting from 
 <div class="grid cards" markdown>
 
 - **Egypt**
-  
   ![](./assets/images/Egypt2.png)
 
 - **Asian village**
-  
   ![](./assets/images/AsianVillage2.png)
 
 - **Tropical island**
-  
   ![](./assets/images/Tropical2.png)
 
 - **Venice**
-  
   ![](./assets/images/Venice2.png)
 
 - **Forest**
-  
   ![](./assets/images/ForestLevel2.png)
+
 </div>
 
 More images can be found [here](https://github.com/TeoNikolov/wasp-ss-assignment/blob/main/docs/assets/images/).
