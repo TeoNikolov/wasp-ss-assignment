@@ -54,7 +54,7 @@ The avatars and scenes are shown further below.
 
 ## Scenes
 
-<div id="compact-cards" class="grid cards" markdown>
+<div class="grid cards" markdown>
 
 - **Egypt**
   
