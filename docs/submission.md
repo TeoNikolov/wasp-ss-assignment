@@ -15,7 +15,7 @@ The `.fbx` and `.wav` files should be named in ascending order, starting from 1,
 
 The avatars and worlds are shown further below.
 
-??? Example
+!!! Example
 
     ```
     - team_name.zip
