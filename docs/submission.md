@@ -13,7 +13,7 @@ You should submit one `.zip` file containing:
 
 All files (except the `.txt`) should be named in ascending order, starting from 1, in the order that they should be played back. Append `A`, `B`, `C`, `D` or `E` to each file to indicate which avatar it corresponds to. The cumulative duration of your `.wav` files should be *4 minutes* long or less.
 
-??? Example (click to show)
+??? Example
 
     ```
     - team_name.zip
