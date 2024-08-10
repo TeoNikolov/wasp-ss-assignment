@@ -8,8 +8,8 @@ theme:
   name: material
   palette:
     - scheme: slate
-      primary: green
-      accent: green
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
