@@ -21,9 +21,13 @@ You work with your team to create text, audio, and animation files for your stor
 - Audio (`.wav`): You use a text-to-audio model to generate speech audio. This year, you will most likely use the model you trained for the pre-summer school assignment (on Canvas). You can use different voices for this, not just your own. You can also stitch the audio and add silence to control the pacing.
 - Animation (`.bvh`, `.fbx`): You use the WASP gesgen app to generate gesture animations from speech audio.
 
+[(Link to tutorial)](./tutorial.md)
+
 **Stage 2. Submission**
 
-You package all created files to a `.zip` archive which you submit to us. [(more info)](./submission.md)
+You package all created files to a `.zip` archive which you submit to us.
+
+[(Link to submission instructions)](./submission.md)
 
 **Stage 3. Presentation**
 
