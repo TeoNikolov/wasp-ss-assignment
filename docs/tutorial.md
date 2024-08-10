@@ -123,7 +123,9 @@ We'll use web servers hosted by WASP to generate gestures. If you're interested 
     02B.bvh
     03C.bvh
     04B.bvh
+    ```
     
+    ```
     01A.fbx
     02B.fbx
     03C.fbx
