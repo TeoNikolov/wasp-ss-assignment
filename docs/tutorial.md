@@ -14,6 +14,8 @@ Your story will involve a combination of the following avatars and one scene:
 
 ??? example "Scenes (click to show)"
     
+    More images can be found [here](https://github.com/TeoNikolov/wasp-ss-assignment/blob/main/docs/assets/images/).
+    
     <div class="grid cards" markdown>
     
     - **Egypt**
