@@ -1,5 +1,11 @@
 # Assignment Tutorial
 
+This tutorial is split in 3 parts:
+
+- Text Generation
+- Speech Generation
+- Gesture Generation
+
 ## Text Generation
 
 This exercise helps you get familiar with basic LLM prompting, compare different models, understand LLM limitations, and create engaging stories for the final presentation.
