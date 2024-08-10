@@ -18,11 +18,14 @@ To learn the basics of prompt engineering, check out [this short course](https:/
     02B: I don't know... What if something goes wrong?
     03A: Relax, it’s just a rehearsal.
     04C: Guys, we’ve got this!
+    ...
     ```
     
-    The number represents the sequence of the conversation lines, whereas the `A`, `B`, `C`, etc. labels link the conversation to one of these avatars:
-   
-   ![](./assets/images/avatars.png)
+    The number indicates the order of the conversation lines, whereas the `A`, `B`, `C`, etc. label specifies which of the following characters the line corresponds to:
+    
+    ![](./assets/images/avatars.png)
+    
+    You can view the available scenes [here](./submission.md).
 
 ### Creating a story
 
@@ -58,7 +61,14 @@ The instructions to generate audio are in your Python notebooks on *Canvas*.
 
 !!! success "Deliverable"
     
-    At the end of this tutorial section you should obtain a set of `.wav` files. The files should have the same name as their corresponding text in the `script.txt` file you obtained previously.
+    At the end of this tutorial section you should obtain a set of `.wav` files. The files should have the same name as their corresponding text in the `script.txt` file you obtained previously. For example:
+    
+    ```
+    01A.wav
+    02B.wav
+    03A.wav
+    04C.wav
+    ```
 
 ## Gesture Generation
 
@@ -71,7 +81,19 @@ We'll use web servers hosted by WASP to generate gestures. If you're interested 
 
 !!! success "Deliverable"
     
-    At the end of this tutorial section you should obtain a set of `.bvh` and `.fbx` files. The files should have the same name as their corresponding text in the `script.txt` file you obtained previously.
+    At the end of this tutorial section you should obtain a set of `.bvh` and `.fbx` files. The files should have the same name as their corresponding text in the `script.txt` file you obtained previously. For example:
+    
+    ```
+    01A.bvh
+    02B.bvh
+    03A.bvh
+    04C.bvh
+    
+    01A.fbx
+    02B.fbx
+    03A.fbx
+    04C.fbx
+    ```
 
 ### Task 1. Generate BVH motion from audio
 
