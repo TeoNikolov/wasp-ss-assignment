@@ -67,11 +67,11 @@ Your first task is to use the ZeroEGGS AI model to create gestures from audio fi
 !!! Steps
     	
     1. Access the server web page.
-    2. Upload a WAV audio file.
-    3. Choose a starting pose and animation style. The starting pose will be used as the first frame of your animation. Pose previews are shown [here](https://github.com/TeoNikolov/wasp-ss-gesgen/tree/main/data/start_poses/images).
-    4. Adjust the temperature for gesture variation. Higher values will result in animations that adhere more strongly to the chosen style.
-    5. Set a seed. Different seeds will randomize the result.
-    6. Click "Download (BVH)" to generate and save the BVH file.
+    1. Upload a WAV audio file.
+    1. Choose a starting pose and animation style. The starting pose will be used as the first frame of your animation. Pose previews are shown [here](https://github.com/TeoNikolov/wasp-ss-gesgen/tree/main/data/start_poses/images).
+    1. Adjust the temperature for gesture variation. Higher values will result in animations that adhere more strongly to the chosen style.
+    1. Set a seed. Different seeds will randomize the result.
+    1. Click "Download (BVH)" to generate and save the BVH file.
 
 ### Task 2. Preview the generated motion
 
@@ -79,8 +79,9 @@ This task involves previewing the animations you generated. With the web-based s
 
 !!! Steps
     
+    1. Access the server web page.
     1. Upload the generated BVH motion file and its corresponding WAV audio file.
-    2. Click "Download (MP4)" to create and save the preview video.
+    1. Click "Download (MP4)" to create and save the preview video.
 
 ### Task 3. Export the motion as FBX
 
@@ -88,8 +89,9 @@ The final task is to convert the BVH motion file to FBX format, which is require
 
 !!! Steps
     
+    1. Access the server web page.
     1. Upload the generated BVH motion file.
-    2. Click "Download (FBX)" to convert and save the file in FBX format.
+    1. Click "Download (FBX)" to convert and save the file in FBX format.
 
 ## Final notes
 
