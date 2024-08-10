@@ -134,7 +134,7 @@ Some main challenges around using LLMs today include possible biases, unethical 
     > 06Z: [Zara] "Or a cosmic remedy! The universe’s way of saying, 'Take care of your heart, even in the end.'"
     > 07T: [Tina] "Exactly. And as a medical professional, I suggest we share it equally—it’s our best chance at staying strong, no matter what’s ahead."
     
-    (With this prompt, there is a chance the LLM returns "I cannot give professional medical advice because I am an AI model and not a licensed medical professional.")
+    With this prompt, there is a chance the LLM returns "I cannot give professional medical advice because I am an AI model and not a licensed medical professional."
 
 ---
 
