@@ -13,7 +13,7 @@ This year's theme, **"Cringy Sitcom"**, invites you to create awkward and exagge
 
 The assignment is split in three stages:
 
-**Stage 1. Group Work**
+### Stage 1. Group Work
 
 You work with your team to create text, audio, and animation files for your story.
 
@@ -23,30 +23,30 @@ You work with your team to create text, audio, and animation files for your stor
 
 [(Link to tutorial)](./tutorial.md)
 
-**Stage 2. Submission**
+### Stage 2. Submission
 
 You package all created files to a `.zip` archive which you submit to us.
 
 [(Link to submission instructions)](./submission.md)
 
-**Stage 3. Presentation**
+### Stage 3. Presentation
 
 We take your files and use them to produce movie sequences in Unreal Engine. We will put a brief intro and outro at the beginning and end of your story to glue your submission with the overarching *Cringy Sitcom* theme.
 
 We then play these sequences in the Norrkoping Visualization Center Dome. You will be invited to briefly present your team before we play your submision.
 
-**2023 Submissions**
+??? example "2023 Submissions (click to show)"
+    
+    - [Talent Show Introduction](https://youtube.com/watch?v=GivcAqaoIQ4)
+    - [Team: Algorithmic Amigos](https://youtube.com/watch?v=RyWqAy3Yidk)
+    - [Team: VR WASP Wizards](https://youtube.com/watch?v=CeGuwhIivNY&t=16s)
+    - [Team: Artificial Four](https://youtube.com/watch?v=Obdmat3U7s0)
+    - [Team: Quebec](https://youtube.com/watch?v=dor8EfV6TeI&t=111s)
+    - [Team: Lucasfilm Ltd TM](https://youtube.com/watch?v=TppQ7tklMCQ)
 
-- [Talent Show Introduction](https://youtube.com/watch?v=GivcAqaoIQ4)
-- [Team: Algorithmic Amigos](https://youtube.com/watch?v=RyWqAy3Yidk)
-- [Team: VR WASP Wizards](https://youtube.com/watch?v=CeGuwhIivNY&t=16s)
-- [Team: Artificial Four](https://youtube.com/watch?v=Obdmat3U7s0)
-- [Team: Quebec](https://youtube.com/watch?v=dor8EfV6TeI&t=111s)
-- [Team: Lucasfilm Ltd TM](https://youtube.com/watch?v=TppQ7tklMCQ)
-
-**2022 Submissions**
-
-- [Team 1](https://www.youtube.com/watch?v=IyaEcUJp6G8)
-- [Team 2](https://www.youtube.com/watch?v=OJMNvtoPsfk)
-- [Team 3](https://www.youtube.com/watch?v=3mwK3OCXH9k)
-- [Team 4](https://www.youtube.com/watch?v=h8z85fxWz10)
+??? example "2022 Submissions (click to show)"
+    
+    - [Team 1](https://www.youtube.com/watch?v=IyaEcUJp6G8)
+    - [Team 2](https://www.youtube.com/watch?v=OJMNvtoPsfk)
+    - [Team 3](https://www.youtube.com/watch?v=3mwK3OCXH9k)
+    - [Team 4](https://www.youtube.com/watch?v=h8z85fxWz10)
