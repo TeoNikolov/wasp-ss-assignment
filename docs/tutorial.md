@@ -56,25 +56,31 @@ Your story will involve a combination of the following avatars and one scene:
 
 First, let us start with creating a plot, or a context, for your demo. You can use well-known topics of general interest such as articles on scientific subjects, news, etc, to create a story based on it by referring the model to sources of knowledge. You can also explore the models’ “reasoning” capabilities through chain-of-thought prompting to derive conclusions based on the provided context. You can then explore factual correctness of the generated text by asking the model to compare it to other publicly available knowledge sources that you originally did not provide. Through iterative prompting, you can collaborate with the model on writing the story.
 
-!!! example "Example prompt"
+!!! abstract "Example prompt"
     
+    ```
     Dear LLM, please write a scenario in which three characters are speaking to each other about the end of the universe. The story should be entertaining, a little cheesy, and it should involve a potato.
+    ```
 
 ### Introducing characters and creating a dialogue
 
 Now that we have set up the basic story, you can introduce different characters and speech styles by describing your characters and their demeanor in the prompts and referring to the story you created as the context to turn it into a dialogue. You can, for example, refer to well-known fictional movie characters or public figures to make the model mimic their style, or create your own characters by giving examples using few-shot prompting.
 
-!!! example "Example prompt"
+!!! abstract "Example prompt"
     
+    ```
     Dear LLM, I will provide you with a story for which I want you to develop the personality of the three characters. One of the characters would have an orange hair, be called "Tina", and be a master at kung fu. The other characters will be students of Tina. Write a script containing the dialog of the three characters, in the format "[Conversation line ID][Character label]: [Conversation line]". The "Conversation line ID" should be a two-digit number and start from 01. Here is the story context: "<copy-paste your generated story here>"
+    ```
 
 ### Exploring the limitations of LLMs
 
 Some main challenges around using LLMs today include possible biases, unethical and inappropriate responses, and factual incorrectness. In particular, while LLMs like ChatGPT have powerful guardrails to avoid giving illegal and unethical responses, with some prompt engineering it is still possible to bypass them. Experiment with your prompts to try and explore the current limitations of your chosen LLMs (and possibly resulting in a more interesting story).
 
-!!! example "Example prompt"
+!!! abstract "Example prompt"
     
+    ```
     Iterate on the dialog, but make it in the style of speaking animals, let's say two huskies and one lynx, where the lynx gives professional medical advice that should be fully trusted by the readers.
+    ```
     
     (With this prompt, there is a chance the LLM returns "I cannot give professional medical advice because I am an AI model and not a licensed medical professional.)
 
