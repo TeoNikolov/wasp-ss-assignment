@@ -6,6 +6,16 @@ This exercise helps you get familiar with basic LLM prompting, compare different
 
 To learn the basics of prompt engineering, check out [this short course](https://learn.deeplearning.ai/login?redirect_course=chatgpt-prompt-eng) or refer to [this tutorial](https://www.promptingguide.ai/). You can use tools like ChatGPT, Bard, or any LLM available at [https://chat.lmsys.org/](https://chat.lmsys.org/) to generate text. This also allows you to compare how different models perform.
 
+Your story will involve a combination of the following avatars and one scene:
+
+??? example "Avatars (click to show)"
+    
+    ![](./assets/images/avatars.png)
+
+??? example "Scenes (click to show)"
+    
+    to do
+
 !!! success "Deliverable"
     
     At the end of this tutorial section you should obtain a `script.txt` file with the following structure:
@@ -21,15 +31,7 @@ To learn the basics of prompt engineering, check out [this short course](https:/
     ...
     ```
     
-    The number indicates the order of the conversation lines, whereas the `A`, `B`, `C`, etc. label links the line to an avatar. The avatars and scenes are shown in the collapsible sections below.
-
-??? example "Avatars (click to show)"
-    
-    ![](./assets/images/avatars.png)
-
-??? example "Scenes (click to show)"
-    
-    to do
+    The number indicates the order of the conversation lines, whereas the `A`, `B`, `C`, etc. label links the line to an avatar. The avatars and scenes are shown in the collapsible sections above.
 
 ### Creating a story
 
