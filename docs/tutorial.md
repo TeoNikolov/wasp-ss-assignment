@@ -2,9 +2,9 @@
 
 This tutorial is split in 3 parts:
 
-- Text Generation
-- Speech Generation
-- Gesture Generation
+- [Text Generation](#text-generation)
+- [Speech Generation](#speech-generation)
+- [Gesture Generation](#gesture-generation)
 
 ## Text Generation
 
@@ -84,6 +84,8 @@ Some main challenges around using LLMs today include possible biases, unethical 
     
     (With this prompt, there is a chance the LLM returns "I cannot give professional medical advice because I am an AI model and not a licensed medical professional.")
 
+---
+
 ## Speech Generation
 
 Generate `.wav` audio files using the model you trained during the summer school pre-assignment. Your team should have multiple such models which you can use to synthesize different voices.
@@ -100,6 +102,8 @@ The instructions to generate audio are in your Python notebooks on *Canvas*.
     03C.wav
     04B.wav
     ```
+
+---
 
 ## Gesture Generation
 
