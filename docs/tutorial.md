@@ -60,6 +60,7 @@ We'll use web servers hosted by WASP to generate gestures. If you're interested 
 ### Task 1. Generate BVH motion from audio
 
 Your first task is to use the ZeroEGGS AI model to create gestures from audio files, which could be synthetic, your voice, or any online audio. Consider the following:
+
 - How does adjusting a parameter impact the animation? Keep the seed constant.
 - Does changing the seed produce distinctly different gestures?
 - Evaluate the quality and timing of the gestures - can they be improved?
