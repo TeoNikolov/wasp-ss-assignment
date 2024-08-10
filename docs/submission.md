@@ -15,7 +15,7 @@ To submit, send an email to:
     
     Refer to the [tutorial](./tutorial.md) for more information on the file naming convention.
 
-!!! example "Example"
+!!! abstract "Example"
 
     ```
     - team_name.zip
