@@ -8,19 +8,21 @@ To learn the basics of prompt engineering, check out [this short course](https:/
 
 !!! success "Deliverable"
     
-    At the end of this tutorial section you should obtain a `.txt` file of the following structure:
+    At the end of this tutorial section you should obtain a `script.txt` file with the following structure:
 
     ```
-    script.txt
-    ---
     Team: "Your team name"
     Scene: "Your chosen scene name"
     
-    0A: Hey there! Are you ready for the big day?
-    1B: I don't know... What if something goes wrong?
-    2A: Relax, it’s just a rehearsal.
-    3C: Guys, we’ve got this!
+    01A: Hey there! Are you ready for the big day?
+    02B: I don't know... What if something goes wrong?
+    03A: Relax, it’s just a rehearsal.
+    04C: Guys, we’ve got this!
     ```
+    
+    The number represents the sequence of the conversation lines, whereas the `A`, `B`, `C`, etc. labels link the conversation to one of these avatars:
+   
+   ![](./assets/images/avatars.png)
 
 ### Creating a story
 
