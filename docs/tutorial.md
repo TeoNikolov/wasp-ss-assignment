@@ -23,11 +23,11 @@ To learn the basics of prompt engineering, check out [this short course](https:/
     
     The number indicates the order of the conversation lines, whereas the `A`, `B`, `C`, etc. label links the line to an avatar. The avatars and scenes are shown in the collapsible sections below.
 
-!!! example "Avatars (click to show)"
+??? example "Avatars (click to show)"
     
     ![](./assets/images/avatars.png)
 
-!!! example "Scenes (click to show)"
+??? example "Scenes (click to show)"
     
     to do
 
@@ -78,7 +78,7 @@ The instructions to generate audio are in your Python notebooks on *Canvas*.
 
 We'll use web servers hosted by WASP to generate gestures. If you're interested in a more advanced approach, a command line interface method is available and [documented here](https://github.com/TeoNikolov/wasp-ss-gesgen/blob/main/tutorial.md#approach-b---docker-cli), but it won’t be covered in this tutorial. If you prefer to set up your own web server (e.g., if the WASP servers are unavailable or you want to explore the system in more detail), follow the "Local setup" instructions in the [gesgen repository](https://github.com/TeoNikolov/wasp-ss2023-gesgen/).
 
-!!! Servers
+!!! example "Servers"
     
     - Server 1 : [http://129.192.83.172](http://129.192.83.172) or [http://wasp1.teonikolov.com](http://wasp1.teonikolov.com)
     - Server 2 : [http://129.192.82.245](http://129.192.82.245) or [http://wasp2.teonikolov.com](http://wasp2.teonikolov.com)
