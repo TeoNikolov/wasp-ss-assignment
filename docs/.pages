@@ -3,4 +3,5 @@ nav:
     - "Agenda": agenda.md
     - "Tutorial": tutorial
     - "Submission": submission.md
+    - "Links": links.md
     - ...
