@@ -64,9 +64,15 @@ Your story will involve a combination of the following avatars and one scene:
 
 First, let us start with creating a plot, or a context, for your demo. You can use well-known topics of general interest such as articles on scientific subjects, news, etc, to create a story based on it by referring the model to sources of knowledge. You can also explore the models’ “reasoning” capabilities through chain-of-thought prompting to derive conclusions based on the provided context. You can then explore factual correctness of the generated text by asking the model to compare it to other publicly available knowledge sources that you originally did not provide. Through iterative prompting, you can collaborate with the model on writing the story.
 
-!!! abstract "Example prompt"
+!!! abstract "Example"
     
-    > Dear LLM, please write a scenario in which three characters are speaking to each other about the end of the universe. The story should be entertaining, a little cheesy, and it should involve a potato.
+    Prompt
+    
+    > Dear LLM, please write a short scenario (less than 5 sentences) in which three characters are speaking to each other about the end of the universe. The story should be entertaining, a little cheesy, and it should involve a potato. Describe the situation and do not provide dialog.
+    
+    Response (ChatGPT)
+    
+    > In a small, dimly lit room at the edge of time, three friends—a grizzled scientist, an eccentric philosopher, and a quirky alien—gathered around a flickering hologram. The universe was collapsing around them, stars winking out like dying embers. With nothing left to do, they decided to enjoy their last moments by discussing the meaning of it all over a single, perfectly cooked potato they found in the corner. The philosopher pondered its symbolism, the alien admired its taste, and the scientist, with a smirk, wondered if this humble spud might be the universe's final, most absurd mystery.
 
 ### Introducing characters and creating a dialogue
 
@@ -74,7 +80,33 @@ Now that we have set up the basic story, you can introduce different characters 
 
 !!! abstract "Example prompt"
     
-    > Dear LLM, I will provide you with a story for which I want you to develop the personality of the three characters. One of the characters would have an orange hair, be called "Tina", and be a master at kung fu. The other characters will be students of Tina. Write a script containing the dialog of the three characters, with each comversation line being written in the format "[Conversation line ID][Character label]: [Conversation line]". The "Conversation line ID" should be a two-digit number and ascend from 01. Here is the story context: "copy-paste your generated story here"
+    Prompt
+    
+    > Dear LLM, I will provide you with a story for which I want you to develop the personality of the three characters. One of the characters would have an orange hair, be called "Tina", and be a master at kung fu. The other characters will be students of Tina. Write a script containing the dialog of the three characters (less than 7 sentences long), with each comversation line being written in the format "[Conversation line ID][Character label]: [Conversation line]". The "Conversation line ID" should be a two-digit number and ascend from 01. For example:
+    > 01A: Hello!
+    > 02B: Hi!
+    > 03A: My name is Tina.
+    > 04B: Cool!
+    > 
+    > Here is the story context: "copy-paste your generated story here"
+    
+    Response (ChatGPT)
+    
+    > Characters:
+    > 
+    > Tina: Master of kung fu, orange hair, calm, wise, and occasionally dry humor.
+    > Kai: Tina's student, a grizzled scientist, rational, always searching for logical explanations.
+    > Zara: Tina's student, an eccentric philosopher, imaginative, and tends to overthink.
+    > 
+    > 01T: [Tina] "In all my years of training, I've never encountered an opponent as mysterious as this potato."
+    > 02K: [Kai] "It's nothing more than a starchy tuber, Tina. Perhaps the last one in the universe."
+    > 03Z: [Zara] "Or is it, Kai? What if this potato is a symbol, a final metaphor from the cosmos?"
+    > 04T: [Tina] "Symbols, starch, or science—it doesn't matter now. The question is, who gets the first bite?"
+    > 05K: [Kai] "Logically, it should be me. I could analyze its molecular structure."
+    > 06Z: [Zara] "Or me, to savor the last bit of philosophy the universe has left."
+    > 07T: [Tina] "Then again, I could just slice it in three with a single kick... and we’ll all get a taste of the mystery."
+    
+    Note how the model provided the labels. We'll need to change the `T`, `K`, and `Z` to conform to the avatar labels mentioned earlier.
 
 ### Exploring the limitations of LLMs
 
