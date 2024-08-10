@@ -14,7 +14,24 @@ Your story will involve a combination of the following avatars and one scene:
 
 ??? example "Scenes (click to show)"
     
-    to do
+    <div class="grid cards" markdown>
+    
+    - **Egypt**
+      ![](./assets/images/Egypt2.png)
+    
+    - **Asian village**
+      ![](./assets/images/AsianVillage2.png)
+    
+    - **Tropical island**
+      ![](./assets/images/Tropical2.png)
+    
+    - **Venice**
+      ![](./assets/images/Venice2.png)
+    
+    - **Forest**
+      ![](./assets/images/ForestLevel2.png)
+    
+    </div>
 
 !!! success "Deliverable"
     
