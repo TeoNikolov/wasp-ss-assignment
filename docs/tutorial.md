@@ -24,12 +24,12 @@ To learn the basics of prompt engineering, check out [this short course](https:/
     The number indicates the order of the conversation lines, whereas the `A`, `B`, `C`, etc. label links the line to an avatar. The avatars and scenes are shown in the collapsible sections below.
 
 !!! example "Avatars (click to show)"
-   
-   ![](./assets/images/avatars.png)
+    
+    ![](./assets/images/avatars.png)
 
 !!! example "Scenes (click to show)"
-   
-   to do
+    
+    to do
 
 ### Creating a story
 
