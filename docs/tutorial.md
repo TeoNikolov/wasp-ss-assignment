@@ -4,17 +4,9 @@
 
 ### Dialogue generation with LLMs
 
-In this exercise, our goal is to get familiar with basic LLM prompting, compare different available models, 
-explore the limitations of LLMs, as well as to generate entertaining stories and communication scenarios 
-for the final demo.
+This exercise helps you get familiar with basic LLM prompting, compare different models, understand LLM limitations, and create engaging stories for the final presentation.
 
-To get familiar with the basics of prompt engineering, we recommend you follow this short course: 
-https://learn.deeplearning.ai/login?redirect_course=chatgpt-prompt-eng
-
-You can also refer to this tutorial for a basic introduction/overview: https://www.promptingguide.ai/
-You can use ChatGPT, Bard, or any of the LLMs available here Chat with Open Large Language Models 
-https://chat.lmsys.org/ to generate text in this assignment. You can also compare different models’ subjective 
-performance.
+To learn the basics of prompt engineering, check out [this short course](https://learn.deeplearning.ai/login?redirect_course=chatgpt-prompt-eng) or refer to [this tutorial](https://www.promptingguide.ai/). You can use tools like ChatGPT, Bard, or any LLM available at [https://chat.lmsys.org/](https://chat.lmsys.org/) to generate text. This also allows you to compare how different models perform.
 
 ### Creating a story
 
