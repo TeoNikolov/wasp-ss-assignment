@@ -6,6 +6,22 @@ This exercise helps you get familiar with basic LLM prompting, compare different
 
 To learn the basics of prompt engineering, check out [this short course](https://learn.deeplearning.ai/login?redirect_course=chatgpt-prompt-eng) or refer to [this tutorial](https://www.promptingguide.ai/). You can use tools like ChatGPT, Bard, or any LLM available at [https://chat.lmsys.org/](https://chat.lmsys.org/) to generate text. This also allows you to compare how different models perform.
 
+!!! success "Deliverable"
+    
+    At the end of this tutorial section you should obtain a `.txt` file of the following structure:
+
+    ```
+    script.txt
+    ---
+    Team: "Your team name"
+    Scene: "Your chosen scene name"
+    
+    0A: Hey there! Are you ready for the big day?
+    1B: I don't know... What if something goes wrong?
+    2A: Relax, it’s just a rehearsal.
+    3C: Guys, we’ve got this!
+    ```
+
 ### Creating a story
 
 First, let us start with creating a plot, or a context, for your demo. You can use well-known topics of 
@@ -38,6 +54,10 @@ Generate `.wav` audio files using the model you trained during the summer school
 
 The instructions to generate audio are in your Python notebooks on *Canvas*.
 
+!!! success "Deliverable"
+    
+    At the end of this tutorial section you should obtain a set of `.wav` files. The files should have the same name as their corresponding text in the `script.txt` file you obtained previously.
+
 ## Gesture Generation
 
 We'll use web servers hosted by WASP to generate gestures. If you're interested in a more advanced approach, a command line interface method is available and [documented here](https://github.com/TeoNikolov/wasp-ss-gesgen/blob/main/tutorial.md#approach-b---docker-cli), but it won’t be covered in this tutorial. If you prefer to set up your own web server (e.g., if the WASP servers are unavailable or you want to explore the system in more detail), follow the "Local setup" instructions in the [gesgen repository](https://github.com/TeoNikolov/wasp-ss2023-gesgen/).
@@ -47,6 +67,10 @@ We'll use web servers hosted by WASP to generate gestures. If you're interested 
     - Server 1 : [http://129.192.83.172](http://129.192.83.172) or [http://wasp1.teonikolov.com](http://wasp1.teonikolov.com)
     - Server 2 : [http://129.192.82.245](http://129.192.82.245) or [http://wasp2.teonikolov.com](http://wasp2.teonikolov.com)
 
+!!! success "Deliverable"
+    
+    At the end of this tutorial section you should obtain a set of `.bvh` and `.fbx` files. The files should have the same name as their corresponding text in the `script.txt` file you obtained previously.
+
 ### Task 1. Generate BVH motion from audio
 
 Your first task is to use the ZeroEGGS AI model to create gestures from audio files, which could be synthetic, your voice, or any online audio. Consider the following:
@@ -55,7 +79,7 @@ Your first task is to use the ZeroEGGS AI model to create gestures from audio fi
 - Does changing the seed produce distinctly different gestures?
 - Evaluate the quality and timing of the gestures - can they be improved?
 
-!!! Steps
+!!! abstract "Steps"
     	
     1. Access the server web page.
     1. Upload a WAV audio file.
@@ -68,7 +92,7 @@ Your first task is to use the ZeroEGGS AI model to create gestures from audio fi
 
 This task involves previewing the animations you generated. With the web-based solution, this is straightforward. Be patient, as creating the preview video might take some time.
 
-!!! Steps
+!!! abstract "Steps"
     
     1. Access the server web page.
     1. Upload the generated BVH motion file and its corresponding WAV audio file.
@@ -78,7 +102,7 @@ This task involves previewing the animations you generated. With the web-based s
 
 The final task is to convert the BVH motion file to FBX format, which is required for use in Unreal Engine. You'll use the BVH file generated earlier in this step.
 
-!!! Steps
+!!! abstract "Steps"
     
     1. Access the server web page.
     1. Upload the generated BVH motion file.
