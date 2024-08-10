@@ -44,7 +44,7 @@ demo)
 
 ## Speech Generation
 
-Use the model you trained during the summer school pre-assignment to generate speech audio. Use the various models within your team to generate audio with different voices.
+Generate `.wav` audio files using the model you trained during the summer school pre-assignment. Your team should have multiple such models which you can use to synthesize different voices.
 
 The instructions to generate audio are in your Python notebooks on *Canvas*.
 
