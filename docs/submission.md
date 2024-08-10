@@ -1,8 +1,8 @@
 # Submission
 To submit, send an email to:
 
-- `tnikolov@hotmail.com`
-- `tsakovm@gmail.com`
+- [tnikolov@hotmail.com](mailto:tnikolov@hotmail.com)
+- [tsakovm@gmail.com](mailto:tsakovm@gmail.com)
 
 !!! success "Deliverable"
     
