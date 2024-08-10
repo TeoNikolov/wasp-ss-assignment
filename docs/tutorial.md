@@ -15,17 +15,21 @@ To learn the basics of prompt engineering, check out [this short course](https:/
     Scene: "Your chosen scene name"
     
     01A: Hey there! Are you ready for the big day?
-    02B: I don't know... What if something goes wrong?
-    03A: Relax, it’s just a rehearsal.
-    04C: Guys, we’ve got this!
+    02B: Of course, what could go wrong?
+    03C: Hello, we are the Skatteverket :)
+    04B: Oh no..
     ...
     ```
     
-    The number indicates the order of the conversation lines, whereas the `A`, `B`, `C`, etc. label specifies which of the following characters the line corresponds to:
-    
-    ![](./assets/images/avatars.png)
-    
-    You can view the available scenes [here](./submission.md).
+    The number indicates the order of the conversation lines, whereas the `A`, `B`, `C`, etc. label links the line to an avatar. The avatars and scenes are shown in the collapsible sections below.
+
+!!! example "Avatars (click to show)"
+   
+   ![](./assets/images/avatars.png)
+
+!!! example "Scenes (click to show)"
+   
+   to do
 
 ### Creating a story
 
@@ -66,8 +70,8 @@ The instructions to generate audio are in your Python notebooks on *Canvas*.
     ```
     01A.wav
     02B.wav
-    03A.wav
-    04C.wav
+    03C.wav
+    04B.wav
     ```
 
 ## Gesture Generation
@@ -86,13 +90,13 @@ We'll use web servers hosted by WASP to generate gestures. If you're interested 
     ```
     01A.bvh
     02B.bvh
-    03A.bvh
-    04C.bvh
+    03C.bvh
+    04B.bvh
     
     01A.fbx
     02B.fbx
-    03A.fbx
-    04C.fbx
+    03C.fbx
+    04B.fbx
     ```
 
 ### Task 1. Generate BVH motion from audio
