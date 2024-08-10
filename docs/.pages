@@ -1,7 +1,7 @@
 nav:
     - "Assignment": index.md
     - "Agenda": agenda.md
-    - "Tutorial": tutorial
+    - "Tutorial": tutorial.md
     - "Submission": submission.md
     - "Links": links.md
     - ...
