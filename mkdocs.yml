@@ -1,8 +1,7 @@
 site_name: WASP Summer School Assignment
-
-# Repository
-repo_name: ""
-repo_url: ""
+site_url: https://wasp.teonikolov.com/
+repo_name: teonikolov/wasp-ss-assignment
+repo_url: https://github.com/teonikolov/wasp-ss-assignment
 edit_uri: ""
 
 theme:
