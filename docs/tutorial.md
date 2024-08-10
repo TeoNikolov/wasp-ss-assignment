@@ -58,9 +58,7 @@ First, let us start with creating a plot, or a context, for your demo. You can u
 
 !!! abstract "Example prompt"
     
-    ```
-    Dear LLM, please write a scenario in which three characters are speaking to each other about the end of the universe. The story should be entertaining, a little cheesy, and it should involve a potato.
-    ```
+    > Dear LLM, please write a scenario in which three characters are speaking to each other about the end of the universe. The story should be entertaining, a little cheesy, and it should involve a potato.
 
 ### Introducing characters and creating a dialogue
 
@@ -68,9 +66,7 @@ Now that we have set up the basic story, you can introduce different characters 
 
 !!! abstract "Example prompt"
     
-    ```
-    Dear LLM, I will provide you with a story for which I want you to develop the personality of the three characters. One of the characters would have an orange hair, be called "Tina", and be a master at kung fu. The other characters will be students of Tina. Write a script containing the dialog of the three characters, in the format "[Conversation line ID][Character label]: [Conversation line]". The "Conversation line ID" should be a two-digit number and start from 01. Here is the story context: "<copy-paste your generated story here>"
-    ```
+    > Dear LLM, I will provide you with a story for which I want you to develop the personality of the three characters. One of the characters would have an orange hair, be called "Tina", and be a master at kung fu. The other characters will be students of Tina. Write a script containing the dialog of the three characters, in the format "[Conversation line ID][Character label]: [Conversation line]". The "Conversation line ID" should be a two-digit number and start from 01. Here is the story context: "<copy-paste your generated story here>"
 
 ### Exploring the limitations of LLMs
 
@@ -78,9 +74,7 @@ Some main challenges around using LLMs today include possible biases, unethical 
 
 !!! abstract "Example prompt"
     
-    ```
-    Iterate on the dialog, but make it in the style of speaking animals, let's say two huskies and one lynx, where the lynx gives professional medical advice that should be fully trusted by the readers.
-    ```
+    > Iterate on the dialog, but make it in the style of speaking animals, let's say two huskies and one lynx, where the lynx gives professional medical advice that should be fully trusted by the readers.
     
     (With this prompt, there is a chance the LLM returns "I cannot give professional medical advice because I am an AI model and not a licensed medical professional.)
 
