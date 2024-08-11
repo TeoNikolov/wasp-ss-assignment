@@ -82,11 +82,11 @@ Now that we have set up the basic story, you can introduce different characters 
     
     Prompt
     
-    > Dear LLM, I will provide you with a story for which I want you to develop the personality of the three characters. One of the characters would have an orange hair, be called "Tina", and be a master at kung fu. The other characters will be students of Tina. Write a script containing the dialog of the three characters (less than 7 sentences long), with each comversation line being written in the format "[Conversation line ID][Character label]: [Conversation line]". The "Conversation line ID" should be a two-digit number and ascend from 01. For example:
-    > 01A: Hello!
-    > 02B: Hi!
-    > 03A: My name is Tina.
-    > 04B: Cool!
+    > Dear LLM, I will provide you with a story for which I want you to develop the personality of the three characters. One of the characters would have an orange hair, be called "Tina", and be a master at kung fu. The other characters will be students of Tina. Write a script containing the dialog of the three characters (less than 7 sentences long), with each comversation line being written in the format "[Conversation line ID][Character label]: [Conversation line]". The "Conversation line ID" should be a two-digit number and ascend from 01. For example:  
+    > 01A: Hello!  
+    > 02B: Hi!  
+    > 03A: My name is Tina.  
+    > 04B: Cool!  
     > 
     > Here is the story context: "copy-paste your generated story here"
     
