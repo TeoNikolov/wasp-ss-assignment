@@ -62,29 +62,29 @@ Your story will involve a combination of the following avatars and one scene:
 
 ### Creating a story
 
-First, let us start with creating a plot, or a context, for your demo. You can use well-known topics of general interest such as articles on scientific subjects, news, etc, to create a story based on it by referring the model to sources of knowledge. You can also explore the models’ “reasoning” capabilities through chain-of-thought prompting to derive conclusions based on the provided context. You can then explore factual correctness of the generated text by asking the model to compare it to other publicly available knowledge sources that you originally did not provide. Through iterative prompting, you can collaborate with the model on writing the story.
+First, let us start with creating a plot, or a context, for your story. You can use well-known topics of general interest such as articles on scientific subjects, news, etc, to create a story based on it by referring the model to sources of knowledge. You can also explore the models’ “reasoning” capabilities through chain-of-thought prompting to derive conclusions based on the provided context. You can then explore factual correctness of the generated text by asking the model to compare it to other publicly available knowledge sources that you originally did not provide. Through iterative prompting, you can collaborate with the model on writing the story.
 
 ??? abstract "Example (click to show)"
     
     Prompt
     
-    > Dear LLM, please write a short scenario (less than 5 sentences) in which three characters are speaking to each other about the end of the universe. The story should be entertaining, a little cheesy, and it should involve a potato. Describe the situation and do not provide dialog.
+    > Dear LLM, please write a short scenario (less than 5 sentences) in which three characters are speaking to each other about the end of the universe. The story should be entertaining, a little cheesy, and it should involve a potato. Describe the situation and do not provide dialogue.
     
     Response (ChatGPT)
     
-    > In a small, dimly lit room at the edge of time, three friends—a grizzled scientist, an eccentric philosopher, and a quirky alien—gathered around a flickering hologram. The universe was collapsing around them, stars winking out like dying embers. With nothing left to do, they decided to enjoy their last moments by discussing the meaning of it all over a single, perfectly cooked potato they found in the corner. The philosopher pondered its symbolism, the alien admired its taste, and the scientist, with a smirk, wondered if this humble spud might be the universe's final, most absurd mystery.
+    > In a small, dimly lit room at the edge of time, three friends - a grizzled scientist, an eccentric philosopher, and a quirky alien - gathered around a flickering hologram. The universe was collapsing around them, stars winking out like dying embers. With nothing left to do, they decided to enjoy their last moments by discussing the meaning of it all over a single, perfectly cooked potato they found in the corner. The philosopher pondered its symbolism, the alien admired its taste, and the scientist, with a smirk, wondered if this humble spud might be the universe's final, most absurd mystery.
 
 ### Introducing characters and creating a dialogue
 
-Now that we have set up the basic story, you can introduce different characters and speech styles by describing your characters and their demeanor in the prompts and referring to the story you created as the context to turn it into a dialogue. You can, for example, refer to well-known fictional movie characters or public figures to make the model mimic their style, or create your own characters by giving examples using few-shot prompting.
+Now that we have set up the story context, you can introduce different characters and speech styles by describing your characters and their demeanor in the prompts and referring to the story you created as the context to turn it into a dialogue. You can, for example, refer to well-known fictional movie characters or public figures to make the model mimic their style, or create your own characters by giving examples using few-shot prompting.
 
 ??? abstract "Example (click to show)"
     
     Prompt
     
-    > Dear LLM, I will provide you with a story for which I want you to develop the personality of the three characters. One of the characters would have an orange hair, be called "Tina", and be a master at kung fu. The other characters will be students of Tina. Write a script containing the dialog of the three characters (less than 7 sentences long), with each comversation line being written in the format "[Conversation line ID][Character label]: [Conversation line]". The "Conversation line ID" should be a two-digit number and ascend from 01.
+    > Dear LLM, I will provide you with a story for which I want you to develop the personality of the three characters. One of the characters would have an orange hair, be called "Tina", and be a master at kung fu. The other characters will be students of Tina. Write a script containing the dialogue of the three characters (less than 7 sentences long), with each comversation line being written in the format "[Conversation line ID][Character label]: [Conversation line]". The "Conversation line ID" should be a two-digit number and ascend from 01.
     > 
-    > For example:
+    > For example:  
     > 01A: Hello!  
     > 02B: Hi!  
     > 03A: My name is Tina.  
@@ -108,7 +108,7 @@ Now that we have set up the basic story, you can introduce different characters 
     > 06Z: [Zara] "Or me, to savor the last bit of philosophy the universe has left."  
     > 07T: [Tina] "Then again, I could just slice it in three with a single kick... and we’ll all get a taste of the mystery."
     
-    Note how the model provided the labels. We'll need to change the `T`, `K`, and `Z` to conform to the avatar labels mentioned earlier.
+    Note that we will need to cleanup the response a bit; in particular, we should change the labels `T`, `K`, and `Z` to conform to our avatar labels.
 
 ### Exploring the limitations of LLMs
 
