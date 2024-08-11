@@ -1,8 +1,4 @@
 # Submission
-To submit, send an email to:
-
-- [tnikolov@hotmail.com](mailto:tnikolov@hotmail.com)
-- [tsakovm@gmail.com](mailto:tsakovm@gmail.com)
 
 !!! success "Deliverable"
     
@@ -14,6 +10,10 @@ To submit, send an email to:
     - all `.fbx` files
     
     Refer to the [tutorial](./tutorial.md) for more information on the file naming convention.
+
+    !!! warning "Warning"
+
+        You may not be able to attach the file to the email if it is too large. In that case, upload the file to a shared cloud storage like Google Drive. **Make sure that the folder can be accessed externally!**
 
 !!! abstract "Example"
 
@@ -36,3 +36,8 @@ To submit, send an email to:
             - 03C.wav
             - 04B.wav
     ```
+
+To submit, send an email containing (a link to) the `.zip` file to:
+
+- [tnikolov@hotmail.com](mailto:tnikolov@hotmail.com)
+- [tsakovm@gmail.com](mailto:tsakovm@gmail.com)
