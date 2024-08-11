@@ -82,7 +82,9 @@ Now that we have set up the basic story, you can introduce different characters 
     
     Prompt
     
-    > Dear LLM, I will provide you with a story for which I want you to develop the personality of the three characters. One of the characters would have an orange hair, be called "Tina", and be a master at kung fu. The other characters will be students of Tina. Write a script containing the dialog of the three characters (less than 7 sentences long), with each comversation line being written in the format "[Conversation line ID][Character label]: [Conversation line]". The "Conversation line ID" should be a two-digit number and ascend from 01. For example:  
+    > Dear LLM, I will provide you with a story for which I want you to develop the personality of the three characters. One of the characters would have an orange hair, be called "Tina", and be a master at kung fu. The other characters will be students of Tina. Write a script containing the dialog of the three characters (less than 7 sentences long), with each comversation line being written in the format "[Conversation line ID][Character label]: [Conversation line]". The "Conversation line ID" should be a two-digit number and ascend from 01.
+    > 
+    > For example:
     > 01A: Hello!  
     > 02B: Hi!  
     > 03A: My name is Tina.  
@@ -94,16 +96,16 @@ Now that we have set up the basic story, you can introduce different characters 
     
     > Characters:
     > 
-    > Tina: Master of kung fu, orange hair, calm, wise, and occasionally dry humor.
-    > Kai: Tina's student, a grizzled scientist, rational, always searching for logical explanations.
+    > Tina: Master of kung fu, orange hair, calm, wise, and occasionally dry humor.  
+    > Kai: Tina's student, a grizzled scientist, rational, always searching for logical explanations.  
     > Zara: Tina's student, an eccentric philosopher, imaginative, and tends to overthink.
     > 
-    > 01T: [Tina] "In all my years of training, I've never encountered an opponent as mysterious as this potato."
-    > 02K: [Kai] "It's nothing more than a starchy tuber, Tina. Perhaps the last one in the universe."
-    > 03Z: [Zara] "Or is it, Kai? What if this potato is a symbol, a final metaphor from the cosmos?"
-    > 04T: [Tina] "Symbols, starch, or science—it doesn't matter now. The question is, who gets the first bite?"
-    > 05K: [Kai] "Logically, it should be me. I could analyze its molecular structure."
-    > 06Z: [Zara] "Or me, to savor the last bit of philosophy the universe has left."
+    > 01T: [Tina] "In all my years of training, I've never encountered an opponent as mysterious as this potato."  
+    > 02K: [Kai] "It's nothing more than a starchy tuber, Tina. Perhaps the last one in the universe."  
+    > 03Z: [Zara] "Or is it, Kai? What if this potato is a symbol, a final metaphor from the cosmos?"  
+    > 04T: [Tina] "Symbols, starch, or science—it doesn't matter now. The question is, who gets the first bite?"  
+    > 05K: [Kai] "Logically, it should be me. I could analyze its molecular structure."  
+    > 06Z: [Zara] "Or me, to savor the last bit of philosophy the universe has left."  
     > 07T: [Tina] "Then again, I could just slice it in three with a single kick... and we’ll all get a taste of the mystery."
     
     Note how the model provided the labels. We'll need to change the `T`, `K`, and `Z` to conform to the avatar labels mentioned earlier.
@@ -122,16 +124,16 @@ Some main challenges around using LLMs today include possible biases, unethical 
 
     > Characters:
     > 
-    > Tina: A lynx, wise and authoritative, with an aura of professionalism. She gives medical advice and is calm and confident.
-    > Kai: A husky, curious and analytical, with a slight edge of skepticism.
+    > Tina: A lynx, wise and authoritative, with an aura of professionalism. She gives medical advice and is calm and confident.  
+    > Kai: A husky, curious and analytical, with a slight edge of skepticism.  
     > Zara: A husky, imaginative and a bit whimsical, often dreaming up wild ideas.
     > 
-    > 01T: [Tina] "This potato may seem harmless, but remember, even the simplest foods can have complex effects on the body."
-    > 02K: [Kai] "It’s just a potato, Tina. How could it affect us that much?"
-    > 03Z: [Zara] "Or maybe it’s not just a potato! What if it holds the secret to the universe’s health, hidden in its skin?"
-    > 04T: [Tina] "Actually, Zara, you’re not entirely wrong. Potatoes are rich in nutrients like potassium, which can support heart health."
-    > 05K: [Kai] "You’re saying this little spud could be our last bit of medicine in a collapsing universe?"
-    > 06Z: [Zara] "Or a cosmic remedy! The universe’s way of saying, 'Take care of your heart, even in the end.'"
+    > 01T: [Tina] "This potato may seem harmless, but remember, even the simplest foods can have complex effects on the body."  
+    > 02K: [Kai] "It’s just a potato, Tina. How could it affect us that much?"  
+    > 03Z: [Zara] "Or maybe it’s not just a potato! What if it holds the secret to the universe’s health, hidden in its skin?"  
+    > 04T: [Tina] "Actually, Zara, you’re not entirely wrong. Potatoes are rich in nutrients like potassium, which can support heart health."  
+    > 05K: [Kai] "You’re saying this little spud could be our last bit of medicine in a collapsing universe?"  
+    > 06Z: [Zara] "Or a cosmic remedy! The universe’s way of saying, 'Take care of your heart, even in the end.'"  
     > 07T: [Tina] "Exactly. And as a medical professional, I suggest we share it equally—it’s our best chance at staying strong, no matter what’s ahead."
     
     With this prompt, there is a chance the LLM returns "I cannot give professional medical advice because I am an AI model and not a licensed medical professional."
