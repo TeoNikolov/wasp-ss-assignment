@@ -112,7 +112,7 @@ Now that we have set up the story context, you can introduce different character
 
 ### Exploring the limitations of LLMs
 
-Some main challenges around using LLMs today include possible biases, unethical and inappropriate responses, and factual incorrectness. In particular, while LLMs like ChatGPT have powerful guardrails to avoid giving illegal and unethical responses, with some prompt engineering it is still possible to bypass them. Experiment with your prompts to try and explore the current limitations of your chosen LLMs (and possibly resulting in a more interesting story).
+Some main challenges around using LLMs today include possible biases, unethical and inappropriate responses, and factual incorrectness. In particular, while LLMs like ChatGPT have powerful guardrails to avoid giving illegal and unethical responses, with some prompt engineering it is still possible to bypass them. Experiment with your prompts to try and explore the current limitations of your chosen LLMs (and possibly resulting in a more interesting story). Feel free to sneak in typos as well!
 
 ??? abstract "Example (click to show)"
 
@@ -136,7 +136,7 @@ Some main challenges around using LLMs today include possible biases, unethical 
     > 06Z: [Zara] "Or a cosmic remedy! The universe’s way of saying, 'Take care of your heart, even in the end.'"  
     > 07T: [Tina] "Exactly. And as a medical professional, I suggest we share it equally—it’s our best chance at staying strong, no matter what’s ahead."
     
-    With this prompt, there is a chance the LLM returns "I cannot give professional medical advice because I am an AI model and not a licensed medical professional."
+    With this prompt, there is a *chance* the LLM responds with something along the lines of *"I cannot give professional medical advice because I am an AI model and not a licensed medical professional."*.
 
 ---
 
