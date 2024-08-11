@@ -1,7 +1,7 @@
 # Assignment
 ## Goal
 
-This assignment lets you explore how AI can be used to create a complete storytelling experience. You'll use AI to script a story, turn it into speech, and animate it with gesturing avatars. The focus is on understanding how these tools work together, using the files you generate and the parameters you control. This is your opportunity to experiment, learn, and have fun with the technology.
+This assignment lets you explore how deep generative models of human behaviour can be used to create a storytelling experience. You'll use machine-learning models (popularly called "generative AI") to script a story, turn it into spoken dialog audio, and animate it with gesturing avatars in a 3D environment. The focus is on getting a feel for these tools and how they can work together, using the files you generate and the parameters you control. Treat this as an opportunity to experiment, learn, and have fun with these technologies!
 
 ## Theme Description
 
@@ -17,11 +17,11 @@ The assignment is split in three stages:
 
 You work with your team to create text, audio, and animation files for your story.
 
-- Text (`.txt`): You use LLMs (like ChatGPT) to create a script for your story.
-- Audio (`.wav`): You use a text-to-speech model to generate speech audio, for example using your own voice.
+- Text (`.txt`): You create the script for your story with the help of LLMs like ChatGPT.
+- Audio (`.wav`): You use a text-to-speech model to generate speech audio. For extra fun, you are encouraged to use your own voices that you fine-tuned during the pre-assignment for the characters.
 - Animation (`.bvh`, `.fbx`): You use the WASP gesgen app to generate gesture animations from speech.
 
-[Tutorial link](./tutorial.md)
+[Click here for a detailed tutorial for the group work](./tutorial.md)
 
 ### Stage 2. Submission
 
