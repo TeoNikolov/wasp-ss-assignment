@@ -62,7 +62,7 @@ Your story will involve a combination of the following avatars and one scene:
 
 ### Creating a story
 
-First, let us start with creating a plot, or a context, for your story. You can use well-known topics of general interest such as articles on scientific subjects, news, etc, to create a story based on it by referring the model to sources of knowledge. You can also explore the models’ “reasoning” capabilities through chain-of-thought prompting to derive conclusions based on the provided context. You can then explore factual correctness of the generated text by asking the model to compare it to other publicly available knowledge sources that you originally did not provide. Through iterative prompting, you can collaborate with the model on writing the story.
+First, let us start with creating a plot, or a context, for your story. You can use well-known topics of general interest such as articles on scientific subjects, news, etc, to create a story based on that topic by referring the model to sources of knowledge. You can also explore the models’ “reasoning” capabilities through chain-of-thought prompting to derive conclusions based on the provided context. You can then explore factual correctness of the generated text by asking the model to compare it to other publicly available knowledge sources that you originally did not provide. Through iterative prompting, you can collaborate with the model on writing the story.
 
 ??? abstract "Example (click to show)"
     
@@ -142,9 +142,7 @@ Some main challenges around using LLMs today include possible biases, unethical 
 
 ## Speech Generation
 
-Generate `.wav` audio files using the model you trained during the summer school pre-assignment. Your team should have multiple such models which you can use to synthesize different voices.
-
-The instructions to generate audio are in your Python notebooks on *Canvas*.
+Generate `.wav` audio files using the fine-tuned model you trained as part of the summer school pre-assignment. Each person on your team should have one such model. You can use these to synthesize speech in different voices, loading one voice at a time into the synthesis notebook on *Canvas* and then synthesizing the speech you need from it. The notebook contains all necessary instructions.
 
 !!! success "Deliverable"
     
@@ -186,7 +184,7 @@ We'll use web servers hosted by WASP to generate gestures. If you're interested 
     04B.fbx
     ```
 
-### Task 1. Generate BVH motion from audio
+### Subtask 1. Generate BVH motion from audio
 
 Your first task is to use the ZeroEGGS AI model to create gestures from audio files, which could be synthetic, your voice, or any online audio. Consider the following:
 
@@ -203,7 +201,7 @@ Your first task is to use the ZeroEGGS AI model to create gestures from audio fi
     1. Set a seed. Different seeds will randomize the result.
     1. Click `Download (BVH)` to generate and save the `.bvh` file.
 
-### Task 2. Preview the generated motion
+### Subtask 2. Preview the generated motion
 
 This task involves previewing the animations you generated. With the web-based solution, this is straightforward. Be patient, as creating the preview video might take some time.
 
@@ -213,7 +211,7 @@ This task involves previewing the animations you generated. With the web-based s
     1. Upload the generated `.bvh` motion file and its corresponding `.wav` audio file.
     1. Click `Download (MP4)` to create and save the preview video.
 
-### Task 3. Export the motion as FBX
+### Subtask 3. Export the motion as FBX
 
 The final task is to convert the `.bvh` motion file to `.fbx` format, which is required for use in Unreal Engine. You'll use the `.bvh` file generated earlier in this step.
 
