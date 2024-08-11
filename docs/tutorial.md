@@ -238,4 +238,4 @@ When finished with the tutorial, you are free to do as you wish! For inspiration
 - Have a relaxing discussion with ChatGPT about the essence of life and the universe
 - Grab a snack
 
-Hopefully you had fun and learned something new :)
+Hope you had fun :)
