@@ -1,4 +1,7 @@
 # Assignment
+
+![](./assets/gifs/hello-there.gif)
+
 ## Goal
 
 This assignment lets you explore how deep generative models of human behaviour can be used to create a storytelling experience. You'll use machine-learning models (popularly called "generative AI") to script a story, turn it into spoken dialog audio, and animate it with gesturing avatars in a 3D environment. The focus is on getting a feel for these tools and how they can work together, using the files you generate and the parameters you control. Treat this as an opportunity to experiment, learn, and have fun with these technologies!
