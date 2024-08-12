@@ -229,11 +229,9 @@ When finished with the tutorial, you are free to do as you wish! For inspiration
 
 - Create new audio files and generate new animations
 - Experiment with the gesture generation parameters
-- Work on systems you used previously during the summer school
-- Work on the student assignment for Thursday
-- Set up the Docker solution locally, if you have not done so already
+- Set up the gesture generation web app locally using Docker
 - Browse the code to learn more about how various tools were used to create a functioning web app: `FastAPI`, the `Celery` task queue, `Redis`, `Docker` (`Dockerfile`, `docker compose`), the `GENEA Visualiser`, `HTML`, `CSS`, `Javascript` . Feel free to ask questions!
-- Install Blender on your computer and inspect the downloaded BVH and FBX files
+- Install Blender on your computer and inspect the downloaded `.bvh` and `.fbx` files
 - Help other teams out
 - Have a relaxing discussion with ChatGPT about the essence of life and the universe
 - Grab a snack
