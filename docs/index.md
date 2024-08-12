@@ -9,7 +9,7 @@ This year's theme, **"Cringy Sitcom"**, invites you to create awkward and exagge
 
 ## Process
 
-![](./assets/images/IMG_0118.png)
+![](./assets/images/procedure_diagram.png)
 
 The assignment is split in three stages:
 
