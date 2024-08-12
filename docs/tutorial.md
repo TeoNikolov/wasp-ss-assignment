@@ -192,6 +192,8 @@ Your first task is to use the ZeroEGGS AI model to create gestures from audio fi
 - Does changing the seed produce distinctly different gestures?
 - Evaluate the quality and timing of the gestures - can they be improved?
 
+The gesture animation files are encoded in the `.bvh` file format; you can read more about it [here](https://www.cs.cityu.edu.hk/~howard/Teaching/CS4185-5185-2007-SemA/Group12/BVH.html).
+
 !!! abstract "Steps"
     	
     1. Access the server web page.
@@ -213,7 +215,7 @@ This task involves previewing the animations you generated. With the web-based s
 
 ### Subtask 3. Export the motion as FBX
 
-The final task is to convert the `.bvh` motion file to `.fbx` format, which is required for use in Unreal Engine. You'll use the `.bvh` file generated earlier in this step.
+The final task is to convert the `.bvh` motion file to `.fbx` format, which is a 3D format developed by Autodesk and required by Unreal Engine for your story. You'll use the `.bvh` file generated earlier in this step.
 
 !!! abstract "Steps"
     
