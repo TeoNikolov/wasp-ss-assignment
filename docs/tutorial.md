@@ -22,6 +22,10 @@ Your story will involve a combination of the following avatars and one scene:
     
     <div class="grid cards" markdown>
     
+    - <span style="height: 300px; align-text: center;">
+      <img src"=./assets/images/A_Vivian.png">
+      </span>
+    
     - **A**
       ![](./assets/images/A_Vivian.png)
     
