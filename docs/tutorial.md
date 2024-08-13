@@ -87,10 +87,10 @@ Your story will involve a combination of the following avatars and scenes:
     
     !!! warning "Compatibility"
         The software is experimental and may not run on your machine if your computer has:
-            
-            - OS different from Windows
-            - low RAM capacity
-            - weak GPU
+        
+        - OS different from Windows
+        - low RAM capacity
+        - weak GPU
 
 ---
 
