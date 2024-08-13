@@ -22,7 +22,31 @@ Your story will involve a combination of the following avatars and one scene:
 
 ??? example "Scenes (click to show)"
     
-    More images can be found [here](https://github.com/TeoNikolov/wasp-ss-assignment/blob/main/docs/assets/images/).
+    **New scenes**
+    
+    <div class="grid cards" markdown>
+    
+    - **The Void**
+      ![](./assets/images/void.png)
+    
+    - **Polar**
+      ![](./assets/images/polar.png)
+    
+    - **Mall**
+      ![](./assets/images/mall.png)
+    
+    - **Jungle**
+      ![](./assets/images/jungle.png)
+    
+    - **Small village**
+      ![](./assets/images/village_small.png)
+    
+    - **Dungeon**
+      ![](./assets/images/dungeon.png)
+    
+    </div>
+    
+    **Previous scenes**
     
     <div class="grid cards" markdown>
     
@@ -32,14 +56,8 @@ Your story will involve a combination of the following avatars and one scene:
     - **Asian village**
       ![](./assets/images/AsianVillage2.png)
     
-    - **Tropical island**
-      ![](./assets/images/Tropical2.png)
-    
     - **Venice**
       ![](./assets/images/Venice2.png)
-    
-    - **Forest**
-      ![](./assets/images/ForestLevel2.png)
     
     </div>
 

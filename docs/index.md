@@ -61,4 +61,4 @@ The following great people helped us integrate the pre-assignment with the on-si
 - Ossian Arn (MSc Student, KTH)
 - [Shivam Mehta](https://www.kth.se/profile/smehta) (PhD Student, KTH)
 - [Rahil Somaye](https://www.umu.se/en/staff/somayeh-jafari/) (Research Engineer, Umeå University)
-- [Gustav Eje Henter](https://www.kth.se/profile/ghe) (Associate Professor, KTH)
+- [Gustav Eje Henter](https://www.kth.se/profile/ghe) (Assistant Professor, KTH)
