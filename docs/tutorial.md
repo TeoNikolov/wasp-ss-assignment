@@ -87,6 +87,7 @@ Your story will involve a combination of the following avatars and scenes:
     
     !!! warning "Compatibility"
         The software is experimental and may not run on your machine if your computer has:
+            
             - OS different from Windows
             - low RAM capacity
             - weak GPU
@@ -120,7 +121,7 @@ To learn the basics of prompt engineering, check out [this short course](https:/
     ...
     ```
     
-    Each conversation line starts with 2 numbers, starting from 01 in ascending order. The label `A`, `B`, `C`, ... identifies the avatar that speaks out the line.
+    Each conversation line starts with 2 digits, starting from `01` in ascending order. The label `A`, `B`, `C`, ... identifies the avatar that speaks out the line.
     
     You can have multiple sequences with a different scene, but please **keep the total duration less than 5 minutes**!
 
