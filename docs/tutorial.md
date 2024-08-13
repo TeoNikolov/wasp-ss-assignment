@@ -17,8 +17,45 @@ To learn the basics of prompt engineering, check out [this short course](https:/
 Your story will involve a combination of the following avatars and one scene:
 
 ??? example "Avatars (click to show)"
+
+    **New avatars**
     
-    ![](./assets/images/avatars.png)
+    <div class="grid cards" markdown>
+    
+    - **A**
+      ![](./assets/images/A_Vivian.png)
+    
+    - **B**
+      ![](./assets/images/B_Rosemary.png)
+    
+    - **C**
+      ![](./assets/images/C_Kristofer.png)
+    
+    - **D**
+      ![](./assets/images/D_Emanuel.png)
+    
+    - **I**
+      ![](./assets/images/I_LaForgeMale.png)
+    
+    </div>
+    
+    **Previous avatars**
+    
+    <div class="grid cards" markdown>
+    
+    - **E**
+      ![](./assets/images/E_Harold.png)
+    
+    - **F**
+      ![](./assets/images/F_Lea.png)
+    
+    - **G**
+      ![](./assets/images/G_Leffe.png)
+    
+    - **H**
+      ![](./assets/images/H_Majken.png)
+    
+    </div>
 
 ??? example "Scenes (click to show)"
     
