@@ -57,6 +57,7 @@ We then play these sequences in the Norrköping Visualization Center Dome. You w
 ## Special Thanks
 
 The following great people helped us integrate the pre-assignment with the on-site assignment, including general support and coordination:
+
 - Ossian Arn (MSc Student, KTH)
 - [Shivam Mehta](https://www.kth.se/profile/smehta) (PhD Student, KTH)
 - [Rahil Somaye](https://www.umu.se/en/staff/somayeh-jafari/) (Research Engineer, Umeå University)
