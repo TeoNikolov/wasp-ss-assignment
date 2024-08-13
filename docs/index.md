@@ -53,3 +53,11 @@ We then play these sequences in the Norrköping Visualization Center Dome. You w
     - [Team 2](https://www.youtube.com/watch?v=OJMNvtoPsfk)
     - [Team 3](https://www.youtube.com/watch?v=3mwK3OCXH9k)
     - [Team 4](https://www.youtube.com/watch?v=h8z85fxWz10)
+
+## Special Thanks
+
+The following great people helped us integrate the pre-assignment with the on-site assignment, including general support and coordination:
+- Ossian Arn (MSc Student, KTH)
+- [Shivam Mehta](https://www.kth.se/profile/smehta) (PhD Student, KTH)
+- [Rahil Somaye](https://www.umu.se/en/staff/somayeh-jafari/) (Research Engineer, Umeå University)
+- [Gustav Eje Henter](https://www.kth.se/profile/ghe) (Associate Professor, KTH)
