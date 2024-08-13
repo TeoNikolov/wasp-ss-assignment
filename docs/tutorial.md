@@ -20,44 +20,31 @@ Your story will involve a combination of the following avatars and one scene:
 
     **New avatars**
     
-    <div class="grid cards" markdown>
+    <div class="grid cards" style="text-align: center;" markdown>
+        
+    - ![](./assets/images/A_Vivian.png){: style="height:300px;"}
     
-    - <span style="height: 300px; align-text: center;">
-      <img src"=./assets/images/A_Vivian.png">
-      </span>
+    - ![](./assets/images/B_Rosemary.png){: style="height:300px;"}
     
-    - **A**
-      ![](./assets/images/A_Vivian.png)
+    - ![](./assets/images/C_Kristofer.png){: style="height:300px;"}
     
-    - **B**
-      ![](./assets/images/B_Rosemary.png)
+    - ![](./assets/images/D_Emanuel.png){: style="height:300px;"}
     
-    - **C**
-      ![](./assets/images/C_Kristofer.png)
-    
-    - **D**
-      ![](./assets/images/D_Emanuel.png)
-    
-    - **I**
-      ![](./assets/images/I_LaForgeMale.png)
+    - ![](./assets/images/I_LaForgeMale.png){: style="height:300px;"}
     
     </div>
     
     **Previous avatars**
     
-    <div class="grid cards" markdown>
+    <div class="grid cards" style="text-align: center;" markdown>
     
-    - **E**
-      ![](./assets/images/E_Harold.png)
+    - ![](./assets/images/E_Harold.png){: style="height:300px;"}
     
-    - **F**
-      ![](./assets/images/F_Lea.png)
+    - ![](./assets/images/F_Lea.png){: style="height:300px;"}
     
-    - **G**
-      ![](./assets/images/G_Leffe.png)
+    - ![](./assets/images/G_Leffe.png){: style="height:300px;"}
     
-    - **H**
-      ![](./assets/images/H_Majken.png)
+    - ![](./assets/images/H_Majken.png){: style="height:300px;"}
     
     </div>
 
