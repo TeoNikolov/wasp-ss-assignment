@@ -6,15 +6,7 @@ This tutorial is split in 3 parts:
 - [Speech Generation](#speech-generation)
 - [Gesture Generation](#gesture-generation)
 
----
-
-## Text Generation
-
-This exercise helps you get familiar with basic LLM prompting, compare different models, understand LLM limitations, and create engaging stories for the final presentation.
-
-To learn the basics of prompt engineering, check out [this short course](https://learn.deeplearning.ai/login?redirect_course=chatgpt-prompt-eng) or refer to [this tutorial](https://www.promptingguide.ai/). You can use tools like ChatGPT, Bard, or any LLM available at [https://chat.lmsys.org/](https://chat.lmsys.org/) to generate text. This also allows you to compare how different models perform.
-
-Your story will involve a combination of the following avatars and one scene:
+Your story will involve a combination of the following avatars and scenes:
 
 ??? example "Avatars (click to show)"
 
@@ -89,22 +81,40 @@ Your story will involve a combination of the following avatars and one scene:
     
     </div>
 
+There is also an Unreal Engine Project with the avatars [here](https://drive.google.com/file/d/1gM-d5Gd70bNS5BvRB4zzYu_EZy_vVHtA/view). Note that this software is experimental and may not run on your machine if you are not on Windows or have little RAM / weak GPU.
+
+---
+
+## Text Generation
+
+This exercise helps you get familiar with basic LLM prompting, compare different models, understand LLM limitations, and create engaging stories for the final presentation.
+
+To learn the basics of prompt engineering, check out [this short course](https://learn.deeplearning.ai/login?redirect_course=chatgpt-prompt-eng) or refer to [this tutorial](https://www.promptingguide.ai/). You can use tools like ChatGPT, Bard, or any LLM available at [https://chat.lmsys.org/](https://chat.lmsys.org/) to generate text. This also allows you to compare how different models perform.
+
 !!! success "Deliverable"
     
-    At the end of this tutorial section you should obtain a `script.txt` file with the following structure:
-
+    At the end of this tutorial section you should create a `script.txt` file with the following structure:
+    
     ```
     Team: "Your team name"
-    Scene: "Your chosen scene name"
     
+    Sequence 1 scene: "Your chosen scene name"
     01A: Hey there! Are you ready for the big day?
     02B: Of course, what could go wrong?
     03C: Hello, we are the Skatteverket :)
     04B: Oh no..
+    
+    Sequence 2 scene: "Your chosen scene name"
+    05C: Tax time!
+    06A: Let's run... Now!
+    
+    Sequence 3 scene: "Your chosen scene name"
     ...
     ```
     
-    The number indicates the order of the conversation lines, whereas the `A`, `B`, `C`, etc. label links the line to an avatar. The avatars and scenes are shown in the collapsible sections above.
+    Each conversation line starts with 2 numbers, starting from 01 in ascending order. The label `A`, `B`, `C`, ... identifies the avatar that speaks out the line.
+    
+    You can have multiple sequences with a different scene, but please **keep the total duration less than 5 minutes**!
 
 ### Creating a story
 
