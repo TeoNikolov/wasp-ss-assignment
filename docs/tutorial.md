@@ -83,7 +83,7 @@ Your story will involve a combination of the following avatars and scenes:
 
 ??? example "Interactive Viewer (click to show)"
 
-    We developed an *Unreal Engine* project where you cana preview the available avatars and scenes. The project is a `.zip` file hosted [here](https://drive.google.com/file/d/1gM-d5Gd70bNS5BvRB4zzYu_EZy_vVHtA/view).
+    We developed an *Unreal Engine* project (UE 5.2.1) where you cana preview the available avatars and scenes. The project is a `.zip` file hosted [here](https://drive.google.com/file/d/1gM-d5Gd70bNS5BvRB4zzYu_EZy_vVHtA/view).
     
     !!! warning "Compatibility"
         The software is experimental and may not run on your machine if your computer has:
