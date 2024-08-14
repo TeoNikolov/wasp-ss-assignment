@@ -237,9 +237,9 @@ We'll use web servers hosted by WASP to generate gestures. If you're interested 
         
         - Make sure to connect using `http://` and **not** `https://` - there is a bug preventing generation over HTTPS.
         - Your `.wav` file may not work in some cases. If you cannot generate a `.bvh` file using your `.wav` file, try the following:
-          1. Send the file to yourself on Slack
-          1. Download the file
-          1. Use that file to generate a `.bvh` file
+            1. Send the file to yourself on Slack
+            1. Download the file
+            1. Use that file to generate a `.bvh` file
 
 !!! success "Deliverable"
     
