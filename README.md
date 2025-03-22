@@ -25,11 +25,14 @@ Prerequisites:
 - [Install Docker](https://docs.docker.com/engine/install/)
 - Clone this repository
 
-To build the website, run these in terminal:
+To build the website, run in terminal:
 - `cd <path/to/cloned_repository>`
+- `docker build --no-cache -t teonikolov/website-mkdocs -f Dockerfile .`
+
+To host the website locally, run in terminal:
 - `docker run --rm -it -p 8000:8000 -v "${PWD}:/docs" teonikolov/website-mkdocs`
 
-You should now be able to access the website on `http://localhost:8000/`. Any changes you make to the `.md` files will refresh your current page and show the new content. When ready, commit the changes by:
+You should now be able to access the website on `http://localhost:8000/`. Any changes you make to the `.md` files will refresh your current page and show the new content. When ready, commit the changes by running in terminal:
 1. `git status` to show the modified files
 2. `git add <file>` to add the file to staging
 3. `git commit -m <commit message>` to make a commit

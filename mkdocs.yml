@@ -2,7 +2,7 @@ site_name: WASP Summer School Assignment
 site_url: https://wasp.teonikolov.com/
 repo_name: teonikolov/wasp-ss-assignment
 repo_url: https://github.com/teonikolov/wasp-ss-assignment
-edit_uri: ""
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -22,6 +22,8 @@ theme:
   features:
     - navigation.footer
     - navigation.tabs
+    - content.action.edit
+    - content.action.view
 extra_css:
   - stylesheets/extra.css
 plugins:
