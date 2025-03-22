@@ -4,10 +4,10 @@
 This repo hosts the contents of the wasp summer school assignment brief. At the time of writing this README, the assignment brief website can be found here: https://wasp.teonikolov.com
 
 # Backend
-The project is built around [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), where *MkDocs* is a documentation system that focuses on structuring Markdown content, and *Material for MkDocs* is a theme with various customizable plugins to make it prettier and more functional.
+The project is built around [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). *MkDocs* is a documentation system that focuses on structuring Markdown content. *Material for MkDocs* is a theme with various customizable plugins to make it prettier and more functional.
 
 # Building and hosting the website
-The website is hosted on Cloudflare and it is automatically built upon each Git commit. Note that I use my personal Cloudflare account to host the website, so you won't be able to see build logs if you need them. Normally, you don't need to worry about this if you only modify the `.md` files, but you might need the build logs to debug issues when installing or modifying MkDocs plugins and changing the contents of `requirements.txt`. Reach out to me if you need help.
+The website is hosted on Cloudflare and it is automatically built for each Git commit. Note that I use my personal Cloudflare account to host the website, so you won't be able to see build logs if you need them. Normally, you don't need to worry about this if you only modify the `.md` files, but you might need the build logs to debug issues when installing or modifying MkDocs plugins and changing the contents of `requirements.txt`. Reach out to me if you need help.
 
 # Modifying the content
 ## Using GitHub
