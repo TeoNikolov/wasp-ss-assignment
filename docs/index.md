@@ -57,6 +57,16 @@ We take your files and use them to produce movie sequences in Unreal Engine. We 
 
 We then play these sequences in the Norrköping Visualization Center Dome. You will be invited to briefly present your team before we play your submision.
 
+??? example "2024 Submissions (click to show)"
+    
+    - [Cringy Sitcom Introduction](https://www.youtube.com/watch?v=ezpRaj_XSaQ)
+    - [Team: FourBrokeGirls](https://www.youtube.com/watch?v=GVXDiVOwuCo)
+    - [Team: Bravo](https://www.youtube.com/watch?v=QFm7iOP6Ur8)
+    - [Team: Acquaintances](https://www.youtube.com/watch?v=EtEBmEpuMqg)
+    - [Team: SketchyLoveBirds](https://www.youtube.com/watch?v=WOyaDj4OgNo)
+    - [Team: Echoooo](https://www.youtube.com/watch?v=-5w3-utK-eY)
+    - [Team: Cringemas](https://www.youtube.com/watch?v=ScxCTjhazm0)
+
 ??? example "2023 Submissions (click to show)"
     
     - [Talent Show Introduction](https://youtube.com/watch?v=GivcAqaoIQ4)
