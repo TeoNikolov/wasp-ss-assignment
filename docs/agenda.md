@@ -2,11 +2,18 @@
 
 Changes to the agenda are unlikely, but not impossible. You will be notified of any changes.
 
-- Monday - Free
-- Tuesday 16:00 - Introduction to assignment (LiU KO24)
-- Wednesday 09:00 - 17:00 - Work on the assignment (LiU KO24 - Groups A,B,C | LiU KO25 - D,E,F)
-- Thursday 09:00 - 12:00 - Work on the assignment (LiU KO24 - Groups A,B,C | LiU KO25 - D,E,F)
-- **Thursday 12:00 - Submission deadline**
-- Friday 09:30 - 10:30 - Video presentation in the dome
+| Day       | Time           | Description                                              | Room                                    |
+|-----------|----------------|----------------------------------------------------------|-----------------------------------------|
+| Tuesday   | 09:00 - 10:00  | Introduction to assignment                               | KO23                                    |
+|           | 10:30 - 12:00  | Workshop on LLMs                                         | KO23                                    |
+|           | 13:00 - 14:30  | Work on assignment                                       | KO121, KO122, KO123, KO221              |
+|           | 15:00 - 17:30  | WASP-HS workshop 1 & Work on assignment                  | KO23                                    |
+| Wednesday | 09:00 - 12:00  | Work on assignment<br>*Coffee break (10:00-10:30)*       | KO121, KO122, KO123, KO221              |
+|           | 13:00 - 14:30  | WASP-HS Workshop 2                                       | KO23                                    |
+|           | 15:00 - 17:00  | Work on assignment                                       | KO121, KO122, KO123, KO221              |
+| Thursday  | 09:00 - 12:00  | Work on assignment<br>*Coffee break (10:00-10:30)*       | KO121, KO122, KO123, KO221              |
+|           | **12:00**      | **SUBMISSION DEADLINE**                                  | tnikolov@hotmail.com, tsakovm@gmail.com |
+| Friday    | 09:00 - 12:00  | Dome presentations                                       | Norrkoping Visualization C, Floor 5     |
 
-[Click here to view the official agenda](https://wasp-sweden.org/event/joint-summer-school-on-generative-ai-2024/)
+
+[Click here to view the official agenda](https://wasp-sweden.org/event/joint-summer-school-on-resilience-and-regulation/)

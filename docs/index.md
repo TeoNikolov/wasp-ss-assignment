@@ -6,9 +6,28 @@
 
 This assignment lets you explore how deep generative models of human behaviour can be used to create a storytelling experience. You'll use machine-learning models (popularly called "generative AI") to script a story, turn it into spoken dialog audio, and animate it with gesturing avatars in a 3D environment. The focus is on getting a feel for these tools and how they can work together, using the files you generate and the parameters you control. Treat this as an opportunity to experiment, learn, and have fun with these technologies!
 
-## Theme Description
+## Story Theme
+Your story should revolve around a subject. The topics below are some ideas you can take inspiration from, but do not feel overly-constrained by them. You are free to explore at your own pace, so be creative!
 
-This year's theme, **"Cringy Sitcom"**, invites you to create awkward and exaggerated scenes reminiscent of classic TV sitcoms. Think of cheesy one-liners, over-the-top reactions, and characters who find themselves in hilariously uncomfortable situations. While the theme serves as a fun, unifying idea for all submissions, it's just a suggestion - you're free to get creative and go in any direction you like. The theme will also guide the hosts who present the final videos, adding some light-hearted humor to the showcase.
+**Manipulation**
+<br>
+> Explore the power of persuasion gone right or wrong. Whether it’s useful health advice, emotionally charged therapy sessions, or political misinformation, this theme is all about bending the truth for better or worse.
+
+**Documentary**
+<br>
+> Dive into reality-based storytelling that unpacks complex topics like ethics, copyright, AI replacing human labor, or societal shifts. Think informative, reflective, and maybe even a little provocative.
+
+**Comedy**
+<br>
+> Make the audience laugh by telling something funny or cringy. Bring the laughs with awkward coworkers, alien neighbors, a stand-up gone wrong, spark a mockumentary mayhem or scramble-in some offbeat sci-fi skits.
+
+**Talent Show or Contest**
+<br>
+> Channel the chaos and charm of a live competition. Sing, joke, make weird sounds - whatever it takes to win over the crowd and maybe crash and burn doing it.
+
+**Freeform**
+<br>
+> No rules, no themes, now law or police to chase you. Just tell the story you want to tell, whether it’s heartfelt, absurd, poetic, or all of these combined. This is your blank canvas to draw on!
 
 ## Process
 
