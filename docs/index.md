@@ -87,6 +87,15 @@ We then play these sequences in the Norrköping Visualization Center Dome. You w
 
 The following great people helped us integrate the pre-assignment with the on-site assignment, including general support and coordination:
 
+2025:
+
+- [Sonny Vu](https://people.cs.umu.se/sonvx/) (Founder, DeepTensor AB)
+- [Quan Nguyen](https://www.qnguyen3.dev/) (Research Engineer, Umeå University)
+- [Rahil Somaye](https://www.umu.se/en/staff/somayeh-jafari/) (Research Engineer, Umeå University)
+- [Gustav Eje Henter](https://www.kth.se/profile/ghe) (Assistant Professor, KTH; Head of Research, Motorica AB)
+
+2024:
+
 - Ossian Arn (MSc Student, KTH)
 - [Shivam Mehta](https://www.kth.se/profile/smehta) (PhD Student, KTH)
 - [Rahil Somaye](https://www.umu.se/en/staff/somayeh-jafari/) (Research Engineer, Umeå University)

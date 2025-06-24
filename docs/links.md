@@ -9,3 +9,6 @@
 - Gesture generation model (ZeroEGGS)
     - repo: [https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS)
     - arXiv paper: [https://arxiv.org/abs/2209.07556](https://arxiv.org/abs/2209.07556)
+- Unreal Engine 5.2 Dome Project
+    - repo: [https://dev.azure.com/WARA-ML/WASP%20Summer%20School/_git/wasp-unreal-dome?path=%2F&version=GB2025_UE5.2&_a=contents](https://dev.azure.com/WARA-ML/WASP%20Summer%20School/_git/wasp-unreal-dome?path=%2F&version=GB2025_UE5.2&_a=contents)
+    - demo app: [https://drive.google.com/file/d/1VzF2RGVjLA-bVEvJNxxr33ODk8ZPN19_/view](https://drive.google.com/file/d/1VzF2RGVjLA-bVEvJNxxr33ODk8ZPN19_/view)

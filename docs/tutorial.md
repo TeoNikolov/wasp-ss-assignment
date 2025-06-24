@@ -211,6 +211,8 @@ Generate `.wav` audio files using the fine-tuned model you trained as part of th
 
 As a backup option, you can use [this notebook](https://colab.research.google.com/drive/12mdEujBj7Wj0b0SaxW83tS-POgifDKBE?usp=sharing&pli=1&authuser=1#scrollTo=ARiOT_I7tPVF) by Shivam Mehta from the 2023 WASP summer school.
 
+Or you can use any other Text-To-Speech you like, or even generated music?
+
 !!! success "Deliverable"
     
     At the end of this tutorial section you should obtain a set of `.wav` files. The files should have the same name as their corresponding text in the `script.txt` file you obtained previously. For example:
