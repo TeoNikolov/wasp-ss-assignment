@@ -226,16 +226,14 @@ As a backup option, you can use [this notebook](https://colab.research.google.co
 
 ## Gesture Generation
 
-We'll use web servers hosted by WASP to generate gestures. If you're interested in a more advanced approach, a command line interface method is available and [documented here](https://github.com/TeoNikolov/wasp-ss-gesgen/blob/main/tutorial.md#approach-b---docker-cli), but it won’t be covered in this tutorial. If you prefer to set up your own web server (e.g., if the WASP servers are unavailable or you want to explore the system in more detail), follow the "Local setup" instructions in the [gesgen repository](https://github.com/TeoNikolov/wasp-ss2023-gesgen/).
+We use web servers hosted by WASP to generate gestures. If you're interested in a more advanced approach, a command line interface method is available and [documented here](https://github.com/TeoNikolov/wasp-ss-gesgen/blob/main/tutorial.md#approach-b---docker-cli), but it won’t be covered in this tutorial. If you prefer to set up your own web server (e.g., if the WASP servers are unavailable or you want to explore the system in more detail), follow the "Local setup" instructions in the [gesgen repository](https://github.com/TeoNikolov/wasp-ss2023-gesgen/).
 
-!!! example "Servers"
+!!! example "Server"
     
-    - Server 1 : [http://129.192.83.172](http://129.192.83.172) or [http://wasp1.teonikolov.com](http://wasp1.teonikolov.com)
-    - Server 2 : [http://129.192.82.245](http://129.192.82.245) or [http://wasp2.teonikolov.com](http://wasp2.teonikolov.com)
+    - [https://wasp1.teonikolov.com](https://wasp1.teonikolov.com) or [http://129.192.83.172](http://129.192.83.172)
     
     !!! warning "Warning"
         
-        - Make sure to connect using `http://` and **not** `https://` - there is a bug preventing generation over HTTPS.
         - Your `.wav` file may not work in some cases. If you cannot generate a `.bvh` file using your `.wav` file, try the following:
             1. Send the file to yourself on Slack
             1. Download the file
