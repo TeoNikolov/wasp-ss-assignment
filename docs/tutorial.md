@@ -232,7 +232,8 @@ We use web servers hosted by WASP to generate gestures. If you're interested in 
 
 !!! example "Server"
     
-    - [https://wasp1.teonikolov.com](https://wasp1.teonikolov.com) or [http://129.192.83.172](http://129.192.83.172)
+    - Server 1: [https://wasp1.teonikolov.com](https://wasp1.teonikolov.com) or [http://129.192.83.172](http://129.192.83.172)
+    - Server 2: [https://wasp2.teonikolov.com](https://wasp2.teonikolov.com)
     
     !!! warning "Warning"
         
