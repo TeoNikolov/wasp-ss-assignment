@@ -53,7 +53,7 @@ You package all created files to a `.zip` archive which you submit to us.
 
 ### Stage 3. Presentation
 
-We take your files and use them to produce movie sequences in Unreal Engine. We will put a brief intro and outro at the beginning and end of your story to glue your submission with the overarching *Cringy Sitcom* theme.
+We take your files and use them to produce movie sequences in Unreal Engine. We will put a brief intro and outro at the beginning and end of your story to glue your submission with the overarching presentation theme.
 
 We then play these sequences in the Norrköping Visualization Center Dome. You will be invited to briefly present your team before we play your submision.
 
